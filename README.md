@@ -55,6 +55,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/has-props.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install has-props
 # OR
